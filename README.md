@@ -3,7 +3,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
 
 ### About Me
 
-- <img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Currently studying Back-End development at Trybe.
+- <img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Currently studying Computer Science at Trybe.
 
 - <img align="left" src="https://static.thenounproject.com/png/62495-200.png" alt="coding" width="20"/> Enthusiastic programmer, always open to learn new technologies.
 
