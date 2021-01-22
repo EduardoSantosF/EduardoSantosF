@@ -11,7 +11,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="react" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" alt="redux" width="40" height="40"/>
   <img src="https://mauriciomikulski.github.io/img/logos/html.png" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="40" height="40"/>
