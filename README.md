@@ -21,7 +21,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
   <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/>
   <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
 </p>
-mailto:
+
 ### Contact
 <a href="https://www.linkedin.com/in/eduardosantosf/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
 <a href="mailto:eduardo.debest81@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" width="40" height="40"/></a>
