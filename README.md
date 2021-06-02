@@ -8,7 +8,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
 - <img align="left" src="https://static.thenounproject.com/png/62495-200.png" alt="coding" width="20"/> Enthusiastic programmer, always open to learn new technologies.
 
 ### Languages and tools
-<p align="left" style="background-color: red">
+<p align="left" style="background-color: #fff">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png" alt="csharp" width="40" height="40"/>
   <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" alt="react" height="40"/>
