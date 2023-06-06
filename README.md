@@ -16,7 +16,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
   <img src="https://img.icons8.com/color/452/nodejs.png" alt="nodejs" width="40" height="40"/>
 </p>
 
-### Contact
+### Contact me
 <a href="https://www.linkedin.com/in/eduardosantosf/" target="_blank"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="Linkedin" width="40" height="40"/></a>
 <a href="mailto:eduardo.debest81@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="Gmail" width="40" height="40"/></a>
 
