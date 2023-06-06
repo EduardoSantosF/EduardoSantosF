@@ -1,12 +1,6 @@
 # Eduardo dos Santos Flores -  <a href="https://linkedin.com/in/eduardosantosf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eduardosantosf" height="30" /></a>
 Hello, I'm a Full-Stack Software Developer from Brazil.
 
-### About Me
-
-- <img align="left" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Currently working as an instructor at Trybe.
-
-- <img align="left" src="https://static.thenounproject.com/png/62495-200.png" alt="coding" width="20"/> Enthusiastic programmer, always open to learn new technologies.
-
 ### Languages and tools
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/>
@@ -23,7 +17,7 @@ Hello, I'm a Full-Stack Software Developer from Brazil.
 </p>
 
 ### Contact
-<a href="https://www.linkedin.com/in/eduardosantosf/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin" width="40" height="40"/></a>
-<a href="mailto:eduardo.debest81@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/eduardosantosf/" target="_blank"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="Linkedin" width="40" height="40"/></a>
+<a href="mailto:eduardo.debest81@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" alt="Gmail" width="40" height="40"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardosantosf&show_icons=true" alt="eduardosantosf" /></p>
